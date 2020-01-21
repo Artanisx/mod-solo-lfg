@@ -38,6 +38,4 @@ rename the file SoloLfg.conf.dist to SoloLfg.conf and edit it.
 *  [Micrah/Milestorme: Module Creator](https://github.com/milestorme).
 *  [Conan513:](https://github.com/conan513).
 *  [Artanisx](https://github.com/Artanisx) - Update for Docker installations.
-
-## License
-This is released under MIT license removing any credits will result in github action.
+*  [Traesh](https://github.com/Traesh) - Original Script
